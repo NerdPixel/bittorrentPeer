@@ -1,0 +1,7 @@
+.idea
+debian-mac-10.7.0-i386-netinst.iso.torrent
+misc
+out
+*.torrent
+env
+*.pyc
